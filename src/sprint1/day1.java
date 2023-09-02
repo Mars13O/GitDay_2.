@@ -6,6 +6,6 @@ public class day1 {
 
 
     //navigation
-
+// we create changes
 
 }
